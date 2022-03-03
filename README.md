@@ -4,6 +4,7 @@
 The purpose of this project is to create a website that will allow people to search for UFO sightings based on date, city, state, country, and shape of the object spotted. A table is then created for the person interacting with to compare the different sightings depending on the different criteria.
 
 ## Results
+![website_screenshot.png](https://github.com/mackalys/UFOs/blob/main/static/images/website_screenshot.png)
 When looking at the website, the UFO enthusiast can enter their desired search based on the criteria listed on the left side of the page. Once the search is entered in the box or boxes, pressing "Enter" will run the search and filter the data displayed on the website. So the data uploaded to the site will all be shown before anything is entered in the boxes and once there is criteria entered, the data shown will show what is specifically asked for.
 
 ## Summary
